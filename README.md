@@ -1,5 +1,5 @@
 # Coming-soon-page
-- This is Simple Coming soon page.
+- This is Simple Coming soon welcome page(for client Sukanya Foundation).
 - Technology used : 
 - 1.HTML 
 - 2.CSS
