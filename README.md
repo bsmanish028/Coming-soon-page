@@ -3,5 +3,5 @@
 - Technology used : 
 - 1.HTML 
 - 2.CSS
-- 3. W3.CSS for styling.
-- 4. Googleapis for fonts and some styling.
+- 3.W3.CSS for styling.
+- 4.Googleapis for fonts and some styling.
